@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 48px;
+}
+.orange-color{
+    color:brown
+}
+seaction{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+.order-food{
+    text-decoration: none;
+    background: rgb(223, 106, 28);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
