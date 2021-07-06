@@ -47,33 +47,79 @@ section{
     text-align: center;
 }
 
+food-item{
+    
+    display: flex;
+    float:right;
+    margin-top:10px; 
+    
+    
+   
 
+}
 
+.food-item img{
+  width: 90.33%;
+  padding-left: 5px;
+  border-radius: 50px;
+ 
+}
+.foodbox{
+    width: 355px;
+    border: solid whitesmoke;
+    padding-top: 20px;
+    margin: 20px;
+   padding-left: 45px;
+   border-radius: 30px;
+   box-shadow: 8px 8px 8px gray;  
+    
+}
 
-
-.mom{
-    width: 0px;%;
+   
 }
 .mom{
     display:flex;
-
+    box-shadow: rebeccapurple;
+    float:right;
+    margin-top:10px ;
+}
+.mom img{
+    width: 90.33%;
+    padding-left: 5px;
 }
 .raju img{
-    width: 400px;
-  padding: 
+    width: 355px;
+    border:solid whitesmoke;
+    padding-top: 10px;
+    margin: 20px;
+    padding-left:45px ;
+    border-radius: 30px;
+    box-shadow:8px 8px 8px  yellowgreen;
+
+ 
 }
 
 
 
 
-.raja{
-    text-align:center ;
+
+
+
+
+
+  
+
+
+.column {
+float: left;
+width: 33.33%;
+padding: 10px;
+height: 30px; 
 }
-.jhanker{
-    
-    display: inline;    
-}
-    
+
+.row{
+      text-align: center;
+    }
 
 
 
@@ -81,7 +127,7 @@ section{
     text-align: center;
     background-color: rgba(248, 106, 11, 0.842);
     height: 190px;
-}
+ }
 .nurul{
-    color: rgba(44, 2, 1, 0.938);
+   color: rgba(44, 2, 1, 0.938);
 }
